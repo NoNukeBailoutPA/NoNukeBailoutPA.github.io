@@ -3499,6 +3499,7 @@
 		margin: 0 auto;
 	}
 
+
 /* Footer */
 
 	#sidebar + #wrapper + #footer {
@@ -3922,8 +3923,8 @@
 
 		}
 
-#readmore {
-    overflow: hidden;
-    height: 600px;
-    margin-bottom: 2em;
+.post {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
