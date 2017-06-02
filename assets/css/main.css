@@ -1908,6 +1908,9 @@
 		white-space: nowrap;
 	}
 
+        #sign {background: white;
+        }
+
 		input[type="submit"]:after,
 		input[type="reset"]:after,
 		input[type="button"]:after,
